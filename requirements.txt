@@ -1,5 +1,4 @@
 requests
 selenium
-fake_useragent
-lxml
+shadow-useragent
 beautifulsoup4
