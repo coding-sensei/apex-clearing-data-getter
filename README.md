@@ -1,2 +1,2 @@
-# automatic-gain-tracker
-Trying to automate my stock gains/dividends with a raspberry pi that will update my Google Sheets Stock Market tracking from my M1 Portfolio
+# apex-clearing-data-getter
+A script that will go to https://www.apexclearing.com/ and download my M1 Finance portfolio information as CSV files so my Google Sheets can use it
